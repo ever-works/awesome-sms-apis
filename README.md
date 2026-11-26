@@ -5,8 +5,8 @@ A curated directory of SMS, OTP-verification and CPaaS messaging APIs and gatewa
 ## 📑 Table of Contents
 
 - [Bulk SMS Gateways (6)](#bulk-sms-gateways)
-- [CPaaS & SMS APIs (9)](#cpaas--sms-apis)
-- [Open-Source SMS Gateways (1)](#open-source-sms-gateways)
+- [CPaaS & SMS APIs (10)](#cpaas--sms-apis)
+- [Open Source SMS Gateways (3)](#open-source-sms-gateways)
 - [Regional Providers (3)](#regional-providers)
 - [Verification & OTP APIs (1)](#verification--otp-apis)
 - [WhatsApp & RCS APIs (1)](#whatsapp--rcs-apis)
@@ -27,15 +27,18 @@ A curated directory of SMS, OTP-verification and CPaaS messaging APIs and gatewa
 - [Bird](https://www.bird.com/) - Bird (formerly MessageBird) offers SMS, voice, WhatsApp, and email APIs for business messaging. It serves developers and enterprises with global coverage and usage-based pricing. ([Read more](/details/bird.md)) `API` `Freemium` `Paid` `Enterprise` `CPaaS` `SMS`
 - [CM.com](https://www.cm.com/) - CM.com provides CPaaS solutions including SMS, WhatsApp, voice, and payments for enterprise customer engagement. It offers omnichannel APIs with volume-based pricing. ([Read more](/details/cm-com.md)) `API` `Paid` `Enterprise` `CPaaS` `WhatsApp` `Payments`
 - [Infobip](https://www.infobip.com/) - Infobip is a global CPaaS platform offering SMS, WhatsApp, email, and chatbot APIs for enterprise customer engagement. It provides omnichannel messaging with volume-based pricing. ([Read more](/details/infobip.md)) `API` `Paid` `Enterprise` `CPaaS` `SMS` `WhatsApp`
+- [Messente](https://messente.com/) - Messente is a global messaging API provider supporting SMS, MMS, and WhatsApp messaging across 197 countries. It offers message templates, scheduled message delivery, and GDPR compliance with custom pricing for enterprise customers. Suitable for companies seeking a reliable global messaging solution with strong customer support. ([Read more](/details/messente.md)) `API` `SMS` `MMS` `WhatsApp` `Paid`
 - [Plivo](https://www.plivo.com/) - Plivo offers cloud-based SMS and voice APIs for developers to embed messaging and calling into applications. It features global coverage, number management, and pay-as-you-go pricing. ([Read more](/details/plivo.md)) `API` `Freemium` `Paid` `CPaaS` `SMS` `Voice`
 - [Sinch](https://www.sinch.com/) - Sinch provides CPaaS messaging, voice, and email APIs with a focus on mobile customer engagement. It serves enterprises with global reach and volume-based pricing. ([Read more](/details/sinch.md)) `API` `Paid` `Enterprise` `CPaaS` `SMS` `Email`
 - [Telnyx](https://www.telnyx.com/) - Telnyx delivers communications APIs for SMS, voice, and wireless connectivity over a private IP network. It targets developers and enterprises with usage-based pricing and portal management. ([Read more](/details/telnyx.md)) `API` `Freemium` `Paid` `CPaaS` `SMS` `Voice`
 - [Twilio](https://www.twilio.com/) - Cloud communications platform offering SMS, voice, email, and WhatsApp APIs for developers and enterprises. It provides programmable messaging, verification, and contact center solutions with usage-based pricing. ([Read more](/details/twilio.md)) `API` `Freemium` `Paid` `Enterprise` `CPaaS` `SMS`
 - [Vonage](https://www.vonage.com/) - Vonage API platform provides SMS, voice, video, and verification services for business communications. It serves developers and enterprises with global carrier networks and usage-based pricing. ([Read more](/details/vonage.md)) `API` `Freemium` `Paid` `Enterprise` `CPaaS` `SMS`
 
-## Open-Source SMS Gateways
+## Open Source SMS Gateways
 
-- [PlaySMS](https://playsms.org/) - PlaySMS is an open-source SMS gateway for managing contacts, sending messages, and handling inbound SMS via web interface. It is self-hosted and supports multiple gateways under the GNU GPL. ([Read more](/details/playsms.md)) `Open Source` `Self-Hosted` `API` `SMS Gateway` `Web Interface`
+- [AwesomeSMS](https://github.com/FancyFurret/awesome-sms) - AwesomeSMS is an open-source project that allows users to text from their computer. Planned features include end-to-end encryption, multiple user support, and a CLI client. It is free to use and open source. ([Read more](/details/awesome-sms.md)) `Open Source` `Free Plan`
+- [PlaySMS](https://playsms.org/) - PlaySMS is an open-source SMS gateway for managing contacts, sending messages, and handling inbound SMS via web interface. It is self-hosted and supports multiple gateways under the GNU GPL. ([Read more](/details/playsms.md)) `Open Source` `Self Hosted` `API` `SMS Gateway` `Web Interface`
+- [textbee](https://textbee.dev) - textbee is an open-source SMS gateway API that turns an Android phone into an SMS gateway. It lets developers send and receive SMS via a simple REST API with webhooks and bulk messaging, with no per-message fees. Positioned as an open-source Twilio alternative, it supports reminders, order updates, follow-ups, and OTP verification. ([Read more](/details/textbee.md)) `Open Source` `Self Hosted` `API`
 
 ## Regional Providers
 
